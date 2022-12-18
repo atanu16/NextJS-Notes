@@ -26,7 +26,7 @@ content: [<br>
 <h3>Install Framer Motion CSS with Next.js</h3>
      
     npm install framer-motion 
- 
+ <h5>Step-2<h5>
     import { motion } from "framer-motion"
         
    
