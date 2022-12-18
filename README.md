@@ -1,4 +1,4 @@
-# Notes-codn
+# NextJS-Notes
 
 
 <h3>NextJs </h3>
