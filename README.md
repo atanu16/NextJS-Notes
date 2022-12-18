@@ -2,9 +2,10 @@
 
 
 <h3>NextJs </h3>
-<h6>npx create-next-app@latest --typescript <br>
-2.cd my-project <br>
-3.npm run dev</h6> 
+     
+      npx create-next-app@latest --typescript
+      cd my-project
+      npm run dev
 
 
 <h3>Install Tailwind CSS with Next.js</h3>
