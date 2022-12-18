@@ -7,6 +7,9 @@
       cd my-project
       npm run dev
 
+<h3>Create page<h3>
+     
+     tsrfc
 
 <h3>Install Tailwind CSS with Next.js</h3>
      
