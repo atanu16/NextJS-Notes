@@ -15,13 +15,13 @@
     npx tailwindcss init -p</h6>
 
 <h4>Configure your template paths:<h4>
-<h6> content: [
+content: [
     "./pages/**/*.{js,ts,jsx,tsx}",
     "./components/**/*.{js,ts,jsx,tsx}",
-  ], </h6>
+  ],
 
     <h4>Add the Tailwind directives to your "globals.css" CSS</h4>
     
-    <h6>@tailwind base;
+   @tailwind base;
 @tailwind components;
-@tailwind utilities; </h6>
+@tailwind utilities; 
