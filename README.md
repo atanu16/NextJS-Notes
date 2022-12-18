@@ -43,7 +43,7 @@ content: [<br>
 <h3> Install SocialIcon </h3>
       
       npm install react-social-icons
-<h6> import</h6>
+<h6> Import</h6>
       
       import React from 'react';
       import ReactDOM from 'react-dom';
