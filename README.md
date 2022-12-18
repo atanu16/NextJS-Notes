@@ -11,17 +11,17 @@
 
 <h4>Install Tailwind CSS:</h4>
 
-<h6>npm install -D tailwindcss postcss autoprefixer
+<h6>npm install -D tailwindcss postcss autoprefixer<br>
     npx tailwindcss init -p</h6>
 
 <h4>Configure your template paths:<h4>
-content: [
-    "./pages/**/*.{js,ts,jsx,tsx}",
-    "./components/**/*.{js,ts,jsx,tsx}",
+content: [<br>
+    "./pages/**/*.{js,ts,jsx,tsx}",<br>
+    "./components/**/*.{js,ts,jsx,tsx}",<br>
   ],
 
     <h4>Add the Tailwind directives to your globals.css CSS</h4>
     
- <h6>@tailwind base;
-@tailwind components;
+ <h6>@tailwind base;<br>
+@tailwind components;<br>
 @tailwind utilities; <h6>
