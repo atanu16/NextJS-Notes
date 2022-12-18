@@ -21,3 +21,12 @@ content: [<br>
  <h6>@tailwind base;<br>
 @tailwind components;<br>
 @tailwind utilities; <h6>
+
+     
+<h3>Install Framer Motion CSS with Next.js</h3>
+     
+    <h6> npm install framer-motion <h6> <br>
+        
+    <h6>import { motion } from "framer-motion"</h6>
+        
+   
