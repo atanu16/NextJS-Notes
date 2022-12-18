@@ -29,7 +29,7 @@ content: [<br>
  <h5>Step-2<h5>
     import { motion } from "framer-motion";
      
-     <h3> Install sanity </h3>
+<h3> Install sanity </h3>
      
       npm install -g @sanity/cli 
 sanity init --coupon sonny2022
