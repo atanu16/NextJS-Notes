@@ -3,7 +3,7 @@
 
 <h3>NextJs </h3>
      
-      npx create-next-app@latest --typescript
+      npx create-next-app@latest my-project --typescript --eslint
       cd my-project
       npm run dev
 
