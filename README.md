@@ -9,18 +9,14 @@
 
 <h3>Install Tailwind CSS with Next.js</h3>
 
-<h4>Install Tailwind CSS:</h4>
-
 <h6>npm install -D tailwindcss postcss autoprefixer<br>
     npx tailwindcss init -p</h6>
 
-<h4>Configure your template paths:<h4>
+<h4><h4>
 content: [<br>
     "./pages/**/*.{js,ts,jsx,tsx}",<br>
     "./components/**/*.{js,ts,jsx,tsx}",<br>
   ],
-
-    <h4>Add the Tailwind directives to your globals.css CSS</h4>
     
  <h6>@tailwind base;<br>
 @tailwind components;<br>
