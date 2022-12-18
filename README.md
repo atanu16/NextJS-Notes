@@ -9,8 +9,8 @@
 
 <h3>Install Tailwind CSS with Next.js</h3>
      
-      npm install -D tailwindcss postcss autoprefixer<br>
-   npx tailwindcss init -p
+      npm install -D tailwindcss postcss autoprefixer
+      npx tailwindcss init -p
 
 <h4><h4>
 content: [<br>
