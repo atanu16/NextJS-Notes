@@ -20,8 +20,8 @@ content: [
     "./components/**/*.{js,ts,jsx,tsx}",
   ],
 
-    <h4>Add the Tailwind directives to your "globals.css" CSS</h4>
+    <h4>Add the Tailwind directives to your globals.css CSS</h4>
     
-   @tailwind base;
+ <h6>@tailwind base;
 @tailwind components;
-@tailwind utilities; 
+@tailwind utilities; <h6>
