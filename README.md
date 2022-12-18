@@ -49,4 +49,7 @@ content: [<br>
       import ReactDOM from 'react-dom';
       import { SocialIcon } from 'react-social-icons';
       ReactDOM.render(<SocialIcon url="https://twitter.com/jaketrent" />, document.body);
+  
+<h3> Link function</h3>
       
+      import Link from 'next/link';
