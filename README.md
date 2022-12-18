@@ -43,5 +43,5 @@ content: [<br>
 <h3> Install SocialIcon </h3>
       
       npm install react-social-icons
-      
+<h6> import</h6>
       import { SocialIcon } from 'react-social-icons';
