@@ -2,7 +2,7 @@
 
 
 <h3>NextJs </h3>
-npx create-next-app@latest --typescript <br>
+<h6>npx create-next-app@latest --typescript <br>
 2.cd my-project <br>
 3.npm run dev</h6> 
 
