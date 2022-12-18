@@ -40,4 +40,8 @@ content: [<br>
       sanity init --coupon sonny2022
 
         
-   
+<h3> Install SocialIcon </h3>
+      
+      npm install react-social-icons
+      
+      import { SocialIcon } from 'react-social-icons';
